@@ -7,3 +7,5 @@ Please follow the following links to access the part 1 and 2 of the homework:
 [Part 3](https://github.com/rishabh022298/ME700_A3P3.git): **Code comprehension exercise.**
 
 [Part 4](https://github.com/rishabh022298/A3P4.git): **Three tutorials on FEM solver.**
+
+Individual genAIuse.txt files can be found in the individual repositories.
